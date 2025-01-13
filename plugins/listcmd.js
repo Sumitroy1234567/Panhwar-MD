@@ -292,7 +292,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃▸📖 COMMAND: .trt 
 ┃▸ℹ️ change languages 
 ╰━━━━━━━━━━━━⪼
->  *ᴘᴏᴡᴅᴇʀᴇᴅ ʙʏ ᴀᴡᴀɪsxᴄʜᴜᴢᴢᴀ*`;
+>  *ᴘᴏᴡᴅᴇʀᴇᴅ ʙʏ 😎*`;
 
         await conn.sendMessage(
             from,
@@ -315,7 +315,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Send audio
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/JawadYTX/KHAN-DATA/raw/refs/heads/main/autovoice/sigma.m4a' },
+            audio: { url: 'https://github.com/Panhwar110/PANHWAR-DATA/raw/refs/heads/main/autovoice/panhwar.m4a' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
