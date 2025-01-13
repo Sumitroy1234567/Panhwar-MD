@@ -14,18 +14,18 @@ async (conn, mek, m, { from, quoted, reply }) => {
         const startTime = Date.now();
 
         // Add a short delay
-        await new Promise(resolve => setTimeout(resolve, 0000067)); // 0000067ms delay
+        await new Promise(resolve => setTimeout(resolve, 4)); // 5ms delay
 
         const endTime = Date.now();
         const ping = endTime - startTime;
 
         // Send the ping result
         await conn.sendMessage(from, { 
-            text: `*⚡ ᴘᴀɴʜᴡᴀʀ-ᴍᴅ sᴘᴇᴇᴅ ɪs: ${ping}ᴍs*`, 
+            text: `*😎speed is moye moye : ${ping}ᴍs😂*`, 
             contextInfo: {
                 mentionedJid: [m.sender],
                 forwardingScore: 999,
-                isForwarded: true,
+                isForwarded: false,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363321103874131@newsletter',
                     newsletterName: 'ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ',
