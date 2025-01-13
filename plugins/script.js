@@ -11,18 +11,29 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 let repo =`
-*╭──────────────●●►*
-> *BOT OWNER:*
-*|* *ANSAR PANHWAR*
 
-> *PANHWAR MD REPO:*
-*|* *https://github.com/Panhwar110/Panhwar-MD*
+*╭━━〔 P A N H W A R - M D 〕━━┈⊷*
 
-> *SUPPORT CHANNEL:*
-*|* *https://whatsapp.com/channel/0029ValASu1IN9ifummBKW1U*
-*╰──────────────●●►*
+*[ •  B O T - O W N E R ‎ • ]*
+*╭┈───────────────•*
+*│  ◦* *A N S A R - P A N H W A R*
+*╰┈───────────────•*
 
-> *PANHWAR-MD*
+*[ •  PANHWAR-MD - REPO ‎ • ]*
+*╭┈───────────────•*
+*│  ◦* *https://github.com/Panhwar110/Panhwar-MD*
+*╰┈───────────────•*
+
+*[ •  SUPPORT - GROUP‎ • ]*
+*╭┈───────────────•*
+*│  ◦* *https://whatsapp.com/channel/0029ValASu1IN9ifummBKW1U*
+*╰┈───────────────•*
+*╰──────────────┈⊷*
+
+*•────────────•⟢*
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ
+*•────────────•⟢*
+
 `
 await conn.sendMessage(from, { text: repo ,
   contextInfo: {
