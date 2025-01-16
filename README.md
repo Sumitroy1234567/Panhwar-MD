@@ -47,7 +47,7 @@
 3. Link your WhatsApp by [`PAIR CODE 3 😁`](https://khanmdx3.onrender.com)
 4. ***Then `Go to Whatapp > Three dots > Linked Devices`***
 5. Deploy On Heruku .[`🤩 HEROKU 🤩`](https://dashboard.heroku.com/new-app?template=https://github.com/Ansar-Panhwar/Panhwar-MD)
-6.  ***Deploy on [`TalkDrove`](https://talkdrove.com/share-bot/62)***
+6.  ***Deploy on [`🤩 TalkDrove 🤩`](https://talkdrove.com/share-bot/62)***
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
