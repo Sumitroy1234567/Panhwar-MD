@@ -42,10 +42,12 @@
 
     
 
-1. Link your WhatsApp by [`PAIR CODE`](https://panhwar-pair-9aaf305c0a91.herokuapp.com/)
-2. ***Then `Go to Whatapp > Three dots > Linked Devices`***
-3. Deploy On Heruku .[`HEROKU`](https://dashboard.heroku.com/new-app?template=https://github.com/Ansar-Panhwar/Panhwar-MD)
-4.  ***Deploy on [`TalkDrove`](https://talkdrove.com/share-bot/62)***
+1. Link your WhatsApp by [`PAIR CODE 1 😎`](https://khanmdx.onrender.com)
+2. Link your WhatsApp by [`PAIR CODE 2 🤩`](https://khanmdx.onrender.com)
+3. Link your WhatsApp by [`PAIR CODE 3 😁`](https://khanmdx.onrender.com)
+4. ***Then `Go to Whatapp > Three dots > Linked Devices`***
+5. Deploy On Heruku .[`HEROKU`](https://dashboard.heroku.com/new-app?template=https://github.com/Ansar-Panhwar/Panhwar-MD)
+6.  ***Deploy on [`TalkDrove`](https://talkdrove.com/share-bot/62)***
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
